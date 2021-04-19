@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Практическое занятие 1\Практическое занятие 1\obj\Debug\Практическое занятие 1.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Практическое занятие 1\Практическое занятие 1\obj\Debug\Практическое занятие 1.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Практическое занятие 1\Практическое занятие 1\bin\Debug\Практическое занятие 1.exe.config
+C:\Users\Dell\source\repos\Практическое занятие 1\Практическое занятие 1\bin\Debug\Практическое занятие 1.exe
+C:\Users\Dell\source\repos\Практическое занятие 1\Практическое занятие 1\bin\Debug\Практическое занятие 1.pdb
+C:\Users\Dell\source\repos\Практическое занятие 1\Практическое занятие 1\obj\Debug\Практическое занятие 1.exe
+C:\Users\Dell\source\repos\Практическое занятие 1\Практическое занятие 1\obj\Debug\Практическое занятие 1.pdb
